@@ -10,5 +10,5 @@ streamlit.text('Hard-Boiled Free-Range Egg')
 streamlit.header( 'Breakfast Favorites')
 streamlit.text(' omega 3 & Blueberry Oatmeal')
 streamlit.text('@ Kale, Spinach & Rocket Smoothie')
-streamlit.text('4 Hard-Boiled
+streamlit.text('4 Hard-Boiled Free Range Egg')
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
